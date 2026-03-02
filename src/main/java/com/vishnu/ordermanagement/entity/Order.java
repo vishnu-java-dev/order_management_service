@@ -15,10 +15,7 @@ public class Order {
     private Long id;
 
     private String customerName;
-
     private Double amount;
-
     private String status;
-
     private LocalDateTime createdAt;
 }
